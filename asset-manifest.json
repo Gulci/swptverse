@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/swptverse/static/css/main.0919644f.chunk.css",
+    "main.css": "/swptverse/static/css/main.a8d41551.chunk.css",
     "main.js": "/swptverse/static/js/main.dd57b718.chunk.js",
     "main.js.map": "/swptverse/static/js/main.dd57b718.chunk.js.map",
     "runtime~main.js": "/swptverse/static/js/runtime~main.e80143fe.js",
@@ -8,9 +8,9 @@
     "static/js/2.3127b727.chunk.js": "/swptverse/static/js/2.3127b727.chunk.js",
     "static/js/2.3127b727.chunk.js.map": "/swptverse/static/js/2.3127b727.chunk.js.map",
     "index.html": "/swptverse/index.html",
-    "precache-manifest.fbcef50871fa98f6e467d94452130b3e.js": "/swptverse/precache-manifest.fbcef50871fa98f6e467d94452130b3e.js",
+    "precache-manifest.716eee890be682578c76bd5c2c852514.js": "/swptverse/precache-manifest.716eee890be682578c76bd5c2c852514.js",
     "service-worker.js": "/swptverse/service-worker.js",
-    "static/css/main.0919644f.chunk.css.map": "/swptverse/static/css/main.0919644f.chunk.css.map",
+    "static/css/main.a8d41551.chunk.css.map": "/swptverse/static/css/main.a8d41551.chunk.css.map",
     "static/media/App.scss": "/swptverse/static/media/stars.6494ab5b.png"
   }
 }
