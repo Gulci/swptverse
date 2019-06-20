@@ -105,6 +105,9 @@ class Main extends React.Component {
   render() {
     return (
       <div className="App">
+        {/* Credits to https://www.script-tutorials.com/night-sky-with-twinkling-stars/ */}
+        <div className="stars"></div>
+        <div className="twinkling"></div>
         <Searchbar
           value={this.state.search}
           onSearchChange={this.handleSearchChange}

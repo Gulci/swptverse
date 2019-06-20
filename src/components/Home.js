@@ -48,7 +48,9 @@ class Home extends Component {
             </i>
           </p>
         </div>
-        <div className="credits">made by /u/shonnyboymushi</div>
+        <div className="credits">
+          made by /u/shonnyboymushi | forked with ❤️ by /u/iammario
+        </div>
       </div>
     )
   }
