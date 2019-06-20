@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/mcuverse/static/css/main.428b39cf.chunk.css",
-    "main.js": "/mcuverse/static/js/main.2a491a07.chunk.js",
-    "main.js.map": "/mcuverse/static/js/main.2a491a07.chunk.js.map",
-    "runtime~main.js": "/mcuverse/static/js/runtime~main.86728467.js",
-    "runtime~main.js.map": "/mcuverse/static/js/runtime~main.86728467.js.map",
-    "static/js/2.0e64134f.chunk.js": "/mcuverse/static/js/2.0e64134f.chunk.js",
-    "static/js/2.0e64134f.chunk.js.map": "/mcuverse/static/js/2.0e64134f.chunk.js.map",
-    "index.html": "/mcuverse/index.html",
-    "precache-manifest.9baa249abc1087cd37fae6add07716b0.js": "/mcuverse/precache-manifest.9baa249abc1087cd37fae6add07716b0.js",
-    "service-worker.js": "/mcuverse/service-worker.js",
-    "static/css/main.428b39cf.chunk.css.map": "/mcuverse/static/css/main.428b39cf.chunk.css.map"
+    "main.css": "/swptverse/static/css/main.0919644f.chunk.css",
+    "main.js": "/swptverse/static/js/main.dd57b718.chunk.js",
+    "main.js.map": "/swptverse/static/js/main.dd57b718.chunk.js.map",
+    "runtime~main.js": "/swptverse/static/js/runtime~main.e80143fe.js",
+    "runtime~main.js.map": "/swptverse/static/js/runtime~main.e80143fe.js.map",
+    "static/js/2.3127b727.chunk.js": "/swptverse/static/js/2.3127b727.chunk.js",
+    "static/js/2.3127b727.chunk.js.map": "/swptverse/static/js/2.3127b727.chunk.js.map",
+    "index.html": "/swptverse/index.html",
+    "precache-manifest.fbcef50871fa98f6e467d94452130b3e.js": "/swptverse/precache-manifest.fbcef50871fa98f6e467d94452130b3e.js",
+    "service-worker.js": "/swptverse/service-worker.js",
+    "static/css/main.0919644f.chunk.css.map": "/swptverse/static/css/main.0919644f.chunk.css.map",
+    "static/media/App.scss": "/swptverse/static/media/stars.6494ab5b.png"
   }
 }
