@@ -24,7 +24,7 @@ class Quote extends Component {
       const quote = this.props.sub.join(' ')
       switch (purpose) {
         case 'reddit':
-          return `${quote} [(*${this.props.title} ${this.props.time}*)](https://${window.location.hostname}/mcuverse/?movie=${this.props.movieId}&quoteIndex=${this.props.subIndex})`
+          return `${quote} [(*${this.props.title} ${this.props.time}*)](https://${window.location.hostname}/swptverse/?movie=${this.props.movieId}&quoteIndex=${this.props.subIndex})`
         default:
           return `${quote} (${this.props.title} ${this.props.time})`
       }
