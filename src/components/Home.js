@@ -49,7 +49,11 @@ class Home extends Component {
           </p>
         </div>
         <div className="credits">
-          made by /u/shonnyboymushi | forked with ❤️ by /u/iammario
+          made by /u/shonnyboymushi | forked with{' '}
+          <span role="img" aria-description="love">
+            ❤️
+          </span>{' '}
+          by /u/iammario
         </div>
       </div>
     )
