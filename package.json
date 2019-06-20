@@ -1,8 +1,8 @@
 {
-  "name": "marvelquotes",
+  "name": "swptquotes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seanlennaerts.github.io/mcuverse",
+  "homepage": "https://gulci.github.io/swptverse",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
@@ -21,7 +21,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "yarn run build && gh-pages -d build"
+    "deploy": "yarn run build && gh-pages -d build",
+    "lint": "eslint ."
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -37,5 +38,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^5.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
   }
 }
