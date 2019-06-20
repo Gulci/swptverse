@@ -5,17 +5,17 @@ import * as StarWarsIII from './Revenge of the Sith.json'
 const subs = [
   {
     id: 'sw1',
-    title: 'The Phantom Menace',
+    title: 'I Star Wars',
     subs: StarWarsI.default,
   },
   {
     id: 'sw2',
-    title: 'Attack of the Clones',
+    title: 'II Star Wars',
     subs: StarWarsII.default,
   },
   {
     id: 'sw3',
-    title: 'Revenge of the Sith',
+    title: 'III Star Wars',
     subs: StarWarsIII.default,
   },
 ]
