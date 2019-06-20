@@ -50,7 +50,7 @@ class Home extends Component {
         </div>
         <div className="credits">
           made by /u/shonnyboymushi | forked with{' '}
-          <span role="img" aria-description="love">
+          <span role="img" aria-labelledby="love">
             ❤️
           </span>{' '}
           by /u/iammario
