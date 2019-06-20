@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/swptverse/static/css/main.a8d41551.chunk.css",
-    "main.js": "/swptverse/static/js/main.dd57b718.chunk.js",
-    "main.js.map": "/swptverse/static/js/main.dd57b718.chunk.js.map",
+    "main.js": "/swptverse/static/js/main.2da11bb8.chunk.js",
+    "main.js.map": "/swptverse/static/js/main.2da11bb8.chunk.js.map",
     "runtime~main.js": "/swptverse/static/js/runtime~main.e80143fe.js",
     "runtime~main.js.map": "/swptverse/static/js/runtime~main.e80143fe.js.map",
     "static/js/2.3127b727.chunk.js": "/swptverse/static/js/2.3127b727.chunk.js",
     "static/js/2.3127b727.chunk.js.map": "/swptverse/static/js/2.3127b727.chunk.js.map",
     "index.html": "/swptverse/index.html",
-    "precache-manifest.716eee890be682578c76bd5c2c852514.js": "/swptverse/precache-manifest.716eee890be682578c76bd5c2c852514.js",
+    "precache-manifest.7ea6804e17ed1747500013cad78fdaff.js": "/swptverse/precache-manifest.7ea6804e17ed1747500013cad78fdaff.js",
     "service-worker.js": "/swptverse/service-worker.js",
     "static/css/main.a8d41551.chunk.css.map": "/swptverse/static/css/main.a8d41551.chunk.css.map",
     "static/media/App.scss": "/swptverse/static/media/stars.6494ab5b.png"

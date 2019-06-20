@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03e809c76324411c18b0dee148df6945",
+    "revision": "44a349d2ff6e21cfd4181aea5c3366e3",
     "url": "/swptverse/index.html"
   },
   {
-    "revision": "5431a873147b42e8f6d9",
+    "revision": "c9c43a0fe8a2d3e0cefd",
     "url": "/swptverse/static/css/main.a8d41551.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/swptverse/static/js/2.3127b727.chunk.js"
   },
   {
-    "revision": "5431a873147b42e8f6d9",
-    "url": "/swptverse/static/js/main.dd57b718.chunk.js"
+    "revision": "c9c43a0fe8a2d3e0cefd",
+    "url": "/swptverse/static/js/main.2da11bb8.chunk.js"
   },
   {
     "revision": "cfff2dadd6d1e5ae1585",
